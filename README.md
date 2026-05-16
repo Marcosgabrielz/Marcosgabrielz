@@ -11,8 +11,7 @@
 
 # about me
 -I enjoy creating projects, designing pieces, and experimenting with technology.
-<img width="119.1" height="68.5" alt="image" src="https://github.com/user-attachments/assets/516321b8-927c-4b45-bf07-4a646599dd99" />
-
+<img width="79.4" height="45.6" alt="image" src="https://github.com/user-attachments/assets/f4b1a258-6a19-47a2-bfcf-a49c6518f173" />-I am a student of higher technical studies in mechatronics at the Technological Institute of the Americas
 -tech/lifestyle/fashion content creator
 
 
