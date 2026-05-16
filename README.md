@@ -9,8 +9,12 @@
 
 
 
-# Hi
-I enjoy creating projects, designing pieces, and experimenting with technology.
+# about me
+-I enjoy creating projects, designing pieces, and experimenting with technology.
+<img width="119.1" height="68.5" alt="image" src="https://github.com/user-attachments/assets/516321b8-927c-4b45-bf07-4a646599dd99" />
+
+-tech/lifestyle/fashion content creator
+
 
 ## Interests
 - 3D Design
