@@ -12,7 +12,7 @@
 # about me
 -I enjoy creating projects, designing pieces, and experimenting with technology.                                                                                      
 -I am a student of higher technical studies in mechatronics at the Technological Institute of the Americas                                                            
--tech/microcontrolers/3d desing and content creator
+-tech/electronics/microcontrolers/3d desing and content creator
 
 
 ## Interests
