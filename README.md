@@ -2,18 +2,10 @@
 <img width="225" height="199" alt="cajafuentegit" src="https://github.com/user-attachments/assets/9097dd9f-81db-4d7a-a942-7de1c2583d94" />
 <img width="225" height="204.7" alt="consolaparagit" src="https://github.com/user-attachments/assets/30fcf678-9b31-44d3-a481-d314f6566f56" />
 
-
-
-
-
-
-
-
 # about me
 -I enjoy creating projects, designing pieces, and experimenting with technology.                                                                                      
 -I am a student of higher technical studies in mechatronics at the Technological Institute of the Americas                                                            
 -tech/electronics/microcontrolers/3d desing and content creator
-
 
 ## Interests
 - 3D Design
