@@ -15,3 +15,8 @@
 - Automation
 - FPGA
 - Electronics
+  
+
+## Certifications
+-SOLIDWORKS Design Associate (CSWA)                                                                                                                                   
+<img width="85.1" height="85.2" alt="SOLIDWORKS DESIGN - ASSOCIATE" src="https://github.com/user-attachments/assets/4f3f2941-5d65-4fb9-8b76-5249e221c758" />
