@@ -18,5 +18,5 @@
   
 
 ## Certifications                                                                                                                       
-<img width="85.1" height="85.2" alt="SOLIDWORKS DESIGN - ASSOCIATE" src="https://github.com/user-attachments/assets/4f3f2941-5d65-4fb9-8b76-5249e221c758" /><img width="85.1" height="85.2" alt="ASSOCIATE - ELECTRICAL" src="https://github.com/user-attachments/assets/70673df6-e1c1-4884-a048-9d86b72a3f6c" /><img width="85.1" height="85.2" alt="ASSOCIATE - SUSTAINABILITY" src="https://github.com/user-attachments/assets/a87945f8-847b-4bd9-94b3-0808a506d204" />
+<img width="85.1" height="85.2" alt="SOLIDWORKS DESIGN - ASSOCIATE" src="https://github.com/user-attachments/assets/4f3f2941-5d65-4fb9-8b76-5249e221c758" />      <img width="85.1" height="85.2" alt="ASSOCIATE - ELECTRICAL" src="https://github.com/user-attachments/assets/70673df6-e1c1-4884-a048-9d86b72a3f6c" />             <img width="85.1" height="85.2" alt="ASSOCIATE - SUSTAINABILITY" src="https://github.com/user-attachments/assets/a87945f8-847b-4bd9-94b3-0808a506d204" />
 
