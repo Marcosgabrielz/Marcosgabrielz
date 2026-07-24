@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00c6ff&height=220&section=header&text=Marcos%20Gabriel%20Urraca&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Mechatronics%20Engineering%20Student%20%7C%20Maker%20%7C%20Content%20Creator&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Marcosgabrielz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Building+robots%2C+one+bug+at+a+time+%F0%9F%A4%96;3D+Design+%7C+Electronics+%7C+Automation;Currently+working+on+a+NASA+HERC+Rover+%F0%9F%9A%80;SolidWorks+%7C+KiCad+%7C+FreeCAD+%7C+ESP32;Turning+ideas+into+CAD+models+and+circuits" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Building+robots%2C+one+bug+at+a+time+%F0%9F%A4%96;3D+Design+%7C+Electronics+%7C+Automation;Turning+ideas+into+CAD+models+and+circuits;SolidWorks+%7C+KiCad+%7C+FreeCAD+%7C+ESP32;Always+experimenting+with+something+new" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,9 +22,9 @@
 
 <br/>
 
-## 👨‍🚀 About me
+## About me
 
-- 🛠️ Estudiante de Ingeniería en Mecatrónica en el **Instituto Tecnológico de las Américas (ITLA)**
+- 🛠️ Estudiante de Ingeniería en Mecatrónica en el **Instituto Tecnológico de las Américas (ITLA)** 
 - 🎨 Me apasiona crear proyectos, diseñar piezas y experimentar con tecnología
 - 📸 También creo contenido sobre tech, electrónica y diseño 3D
 
@@ -40,12 +40,10 @@
 Sistema de automatización exterior con gabinetes IP65+, sensores ambientales protegidos del agua y expuestos a luz solar.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-**🏆 Certificaciones SolidWorks**
-En proceso: CSWA, CSWP, CSWA-AM, CSWA-SD, CSWA-E y DraftSight Associate.
+**⚙️ Macros paramétricas en FreeCAD**
+Automatización de diseño CAD con Python, incluyendo un modelo paramétrico de caja para PLC.
 
 </td>
 </tr>
@@ -57,7 +55,7 @@ En proceso: CSWA, CSWP, CSWA-AM, CSWA-SD, CSWA-E y DraftSight Associate.
 
 <div align="center">
 
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E4200D?style=for-the-badge&logo=solidworks&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-E4200D?style=for-the-badge&logo=solidworks&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-D0071E?style=for-the-badge&logo=autodesk&logoColor=white)
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-808080?style=for-the-badge&logo=freecad&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
@@ -78,7 +76,7 @@ En proceso: CSWA, CSWP, CSWA-AM, CSWA-SD, CSWA-E y DraftSight Associate.
 
 <div align="center">
 
-`3D Design` `CNC` `Raspberry Pi` `SolidWorks` `Automation` `FPGA` `Electronics` `Space & Rover Engineering`
+`3D Design` `CNC` `Raspberry Pi` `SolidWorks` `Automation` `FPGA` `Electronics`
 
 </div>
 
@@ -94,29 +92,6 @@ En proceso: CSWA, CSWP, CSWA-AM, CSWA-SD, CSWA-E y DraftSight Associate.
 <img src="https://github.com/user-attachments/assets/bb4a0a36-c310-4fdd-8176-0c46c469e6fd" width="100" alt="ASSOCIATE - ADDITIVE MANUFACTURING"/>
 <img src="https://github.com/user-attachments/assets/69d64278-eb66-4679-819c-01d068532ce8" width="100" alt="SOLIDWORKS DESIGN - PROFESSIONAL"/>
 <img src="https://github.com/user-attachments/assets/989a29b4-ad28-467d-a9d0-041517dcba13" width="100" alt="ASSOCIATE - DRAFTSIGHT 2D DESIGN AND DRAFTING"/>
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Marcosgabrielz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcosgabrielz&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosgabrielz&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Marcosgabrielz&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
 
 </div>
 
