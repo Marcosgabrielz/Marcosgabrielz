@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://<img width="440" height="440" alt="2221476" src="https://github.com/user-attachments/assets/2a82faf6-0566-4046-95d9-2ecce298f753" height="28"
+<img src="https://github.com/user-attachments/assets/2a82faf6-0566-4046-95d9-2ecce298f753" height="28"
 alt="SolidWorks"/>
 <img src="https://img.shields.io/badge/AutoCAD-D0071E?style=for-the-badge&logo=autodesk&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/FreeCAD-808080?style=for-the-badge&logo=freecad&logoColor=white" height="28"/>
