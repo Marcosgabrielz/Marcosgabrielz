@@ -24,12 +24,9 @@
 
 ## 👨‍🚀 About me
 
-- 🔭 Estudiante de Ingeniería en Mecatrónica en el **Instituto Tecnológico de las Américas (ITLA)**
-- 🛠️ Técnico Superior en Electrónica — con base sólida en diseño, programación y electrónica
-- 🚀 Actualmente diseñando el rover del equipo **NASA HERC 2026 — RC Division (ITLA)**
+- 🛠️ Estudiante de Ingeniería en Mecatrónica en el **Instituto Tecnológico de las Américas (ITLA)**
 - 🎨 Me apasiona crear proyectos, diseñar piezas y experimentar con tecnología
 - 📸 También creo contenido sobre tech, electrónica y diseño 3D
-- ⚡ Fun fact: sueño con trabajar en la NASA desde niño
 
 <br/>
 
@@ -39,24 +36,12 @@
 <tr>
 <td width="50%" valign="top">
 
-**🛰️ NASA HERC 2026 Rover**
-Rover rocker-bogie 6x6 diseñado en SolidWorks, con dirección Ackermann, motores GA25-370 y servos MG996R, control con Raspberry Pi 3 y PCBs en KiCad.
-
-</td>
-<td width="50%" valign="top">
-
 **📡 Automatización LoRaWAN Outdoor**
 Sistema de automatización exterior con gabinetes IP65+, sensores ambientales protegidos del agua y expuestos a luz solar.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-**⚙️ Macros paramétricas en FreeCAD**
-Automatización de diseño CAD con Python, incluyendo un modelo paramétrico de caja para PLC.
-
-</td>
 <td width="50%" valign="top">
 
 **🏆 Certificaciones SolidWorks**
