@@ -2,11 +2,12 @@
 <img width="225" height="199" alt="cajafuentegit" src="https://github.com/user-attachments/assets/9097dd9f-81db-4d7a-a942-7de1c2583d94" />
 <img width="225" height="204.7" alt="consolaparagit" src="https://github.com/user-attachments/assets/30fcf678-9b31-44d3-a481-d314f6566f56" />
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/SOLIDWORKS_Logo.svg" height="28" alt="SolidWorks"/>
+<img src="https://<img width="440" height="440" alt="2221476" src="https://github.com/user-attachments/assets/2a82faf6-0566-4046-95d9-2ecce298f753" height="28"
+alt="SolidWorks"/>
 <img src="https://img.shields.io/badge/AutoCAD-D0071E?style=for-the-badge&logo=autodesk&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/FreeCAD-808080?style=for-the-badge&logo=freecad&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" height="28"/>
@@ -22,7 +23,7 @@
 
 <br/>
 
-## 🎯 Interests
+## Interests
 
 <div align="center">
 
